@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* New styles */
+.headerStyle {
+  font-family: 'Montagu Slab', sans-serif;
+  font-size: 300px;
+  font-weight: 700;
+  line-height: 385px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: #FFFFFF;
+  width: 7222px;
+  height: 4753px;
+}
